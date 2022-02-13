@@ -1,0 +1,8 @@
+C:\Ing.Sis\ProgramacionII\ConversorTarea\tareaConversor\bin\Debug\tareaConversor.exe.config
+C:\Ing.Sis\ProgramacionII\ConversorTarea\tareaConversor\bin\Debug\tareaConversor.exe
+C:\Ing.Sis\ProgramacionII\ConversorTarea\tareaConversor\bin\Debug\tareaConversor.pdb
+C:\Ing.Sis\ProgramacionII\ConversorTarea\tareaConversor\obj\Debug\tareaConversor.csproj.AssemblyReference.cache
+C:\Ing.Sis\ProgramacionII\ConversorTarea\tareaConversor\obj\Debug\tareaConversor.csproj.SuggestedBindingRedirects.cache
+C:\Ing.Sis\ProgramacionII\ConversorTarea\tareaConversor\obj\Debug\tareaConversor.csproj.CoreCompileInputs.cache
+C:\Ing.Sis\ProgramacionII\ConversorTarea\tareaConversor\obj\Debug\tareaConversor.exe
+C:\Ing.Sis\ProgramacionII\ConversorTarea\tareaConversor\obj\Debug\tareaConversor.pdb
